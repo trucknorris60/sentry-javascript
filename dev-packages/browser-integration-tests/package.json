@@ -44,8 +44,8 @@
     "@playwright/test": "^1.44.1",
     "@sentry-internal/rrweb": "2.29.0",
     "@sentry/browser": "8.42.0",
-    "axios": "1.7.7",
-    "babel-loader": "^8.2.2",
+    "axios": "1.13.5",
+    "babel-loader": "^10.0.0",
     "html-webpack-plugin": "^5.5.0",
     "pako": "^2.1.0",
     "webpack": "^5.95.0"
